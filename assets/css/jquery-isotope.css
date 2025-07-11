@@ -1,0 +1,12 @@
+.portfolio-filter {}
+ul.filter {color: #2e2e2e}
+ul.filter li{display: inline-block;font-size: 16px;font-weight: 400;padding-right: 25px;padding-left: 25px;position: relative;cursor: pointer}
+ul.filter li.active{color: #549DC5}
+ul.filter li:after{content: "/";position: absolute;right: 0;top: 0;color: #B4B4B4}
+ul.filter li:last-child{}
+ul.filter li:last-child:after{display: none}
+.all-portfolios {margin-top: 20px;margin-left: -10px}
+.single-portfolio {float: left;
+margin-bottom: 10px;
+margin-left: 10px;
+width: 277px;}

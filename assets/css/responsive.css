@@ -1,0 +1,1743 @@
+  /* (1366x768) WXGA Display */
+
+  @media screen and (min-width: 1366px) and (max-width: 1919px) {
+      .contact-page-area .contact-map {
+          margin-top: 58px;
+      }
+
+  }
+
+  /* Normal desktop :992px. */
+
+  @media (min-width: 992px) and (max-width: 1197px) {
+
+      .hero-style-2 .slick-prev,
+      .hero-style-2 .slick-next {
+          top: 60%;
+      }
+
+      .hero .slick-prev,
+      .hero .slick-next {
+          display: none !important;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 50px;
+          font-weight: 400;
+          color: white;
+          line-height: 80px;
+          margin: 33px 0;
+      }
+
+      .main-menu nav ul li a {
+          font-size: 15px;
+          padding: 35px 12px;
+
+      }
+
+      .header-top ul.header-contact {
+          text-align: center;
+          margin-top: 15px;
+      }
+
+      .account_login-area {
+          margin-top: 15px;
+      }
+
+      .header-top li {
+          display: inline-block;
+          padding: 7px;
+          color: #fff;
+      }
+
+      .header-contact li:before {
+          display: none;
+      }
+
+      .header-top .btn-style a {
+          font-size: 12px;
+      }
+
+      .service-text h3 {
+          font-size: 24px;
+      }
+
+      .service-icon {
+          padding: 10px 15px 10px 10px;
+      }
+
+      .btn-style-3 a:before {
+          left: -33px;
+          width: 59px;
+      }
+
+      .btn-style-3 a:hover:before {
+          left: -40px;
+      }
+
+      .about-text {
+          margin-bottom: 30px;
+      }
+
+      .icon-c {
+          background: #c0b596;
+          height: 88px;
+          max-width: 65px;
+          text-align: center;
+          margin-left: 15px;
+      }
+
+      .service-area.service-area2 .service-item {
+          margin-left: 0px;
+      }
+
+      .service-area.service-area2 .service-icon {
+          padding: 0px;
+          margin-left: -8px;
+      }
+
+      [class^="flaticon-"]:before,
+      [class*=" flaticon-"]:before,
+      [class^="flaticon-"]:after,
+      [class*=" flaticon-"]:after {
+          font-family: Flaticon;
+          font-size: 50px;
+          font-style: normal;
+      }
+
+      .expert-active .owl-nav div {
+          left: -41px;
+          height: 35px;
+          width: 35px;
+          line-height: 35px;
+
+      }
+
+      .expert-active .owl-nav div.owl-next {
+          right: -41px;
+      }
+
+      .organigation-text span {
+          display: block;
+          padding-top: 25px;
+          font-size: 11px;
+      }
+
+      .btn-style a {
+          font-size: 14px;
+      }
+
+      .btns-2 {
+          margin-top: 15px;
+      }
+
+      .about-text p {
+          font-size: 14px;
+          padding-top: 0;
+      }
+
+      .Attorneys-item .Attorneys-img img {
+          width: 300px;
+          height: 300px;
+          border-radius: 100%;
+          border: 15px solid #c0b596;
+      }
+
+      .Attorneys-info .info-outer .info li {
+          font-size: 14px;
+      }
+
+      .Attorneys-info .info-outer .info span {
+          font-size: 16px;
+      }
+
+      .info-outer {
+          padding: 31px 30px 0px 30px;
+      }
+
+      .Attorneys-info .info-outer .social {
+          margin-top: 23px;
+          padding-bottom: 30px;
+      }
+
+      .Attorneys-info .info-outer .info>li+li {
+          margin-top: 10px;
+      }
+
+      .contact-page-area .contact-map {
+          margin-top: 45px;
+      }
+
+      .studies-item .overlay-text .text-inner h3 {
+          font-size: 20px;
+      }
+
+      .studies-item .overlay-text .text-inner h3:before {
+          left: 36%;
+          bottom: -14px;
+      }
+
+      .practice-area .service-text p {
+          font-size: 14px;
+          line-height: 21px;
+      }
+
+      .practice-area .service-text:before {
+          left: 6px;
+          bottom: 29px;
+      }
+
+      .practice-area.practice-area2 .service-text h3 {
+          font-size: 23px;
+      }
+
+      .about-text {
+          margin-bottom: 0;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 42px;
+          line-height: 56px;
+          margin: 19px 0;
+      }
+
+      .title h2:before {
+          left: -43px;
+          top: 19px;
+          width: 43px;
+      }
+
+      .counter-area.counter-area2 .counter-grids .grid {
+          width: 23%;
+      }
+
+      .practice-details-area.case-stadies-details-area .p-p {
+          padding-right: 0;
+      }
+
+      .practice-details-area.case-stadies-details-area .details p {
+          font-size: 14px;
+      }
+
+      .hero {
+          height: 600px;
+      }
+
+      .hero .slide {
+          height: 600px;
+      }
+
+      .testimonial-text {
+          padding-top: 0;
+      }
+
+      .service-area.service-area2 .service-icon {
+          padding: 0;
+          margin-top: 7px;
+      }
+
+      .blog-area .blog-item .post-meta li {
+          font-size: 15px;
+      }
+
+      .header-style-3 .header-top .btn-style a {
+          padding: 8px 9px;
+      }
+
+      .header-style-3 .header-top .container {
+          padding-bottom: 10px;
+      }
+  }
+
+  /* Normal desktop :991px. */
+
+  @media (min-width: 768px) and (max-width: 991px) {
+      .hero {
+          height: 600px;
+      }
+
+      .hero .slide {
+          height: 600px;
+      }
+
+      .hero-style-1 .slide-caption p,
+      .hero-style-2 .slide-caption p {
+          font-size: 18px;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 45px;
+      }
+
+      .hero-style-1 .slide-caption h2 span,
+      .hero-style-2 .slide-caption h2 span {
+          padding: 4px 0;
+      }
+
+      .hero-style-2 {
+          height: 600px;
+      }
+
+      .hero-style-2 .slide {
+          height: 600px;
+      }
+
+      .section-padding {
+          padding: 90px 0;
+      }
+
+      .hero .slick-prev,
+      .hero .slick-next {
+          display: none !important;
+      }
+
+      .logo {
+          margin-top: 0px;
+          max-width: 220px;
+      }
+
+      .back-to-top {
+          width: 35px;
+          height: 35px;
+          line-height: 35px;
+      }
+
+      .header-area {
+          padding: 20px 0;
+      }
+
+      .search {
+          text-align: left;
+          margin-top: 11px;
+          margin-left: -20px;
+      }
+
+      .search ul li a i {
+          margin-top: 5px;
+      }
+
+      .btn-style-3 a:before {
+          display: none;
+      }
+
+      .service-text h3 {
+          font-size: 28px;
+      }
+
+      .about-text {
+          margin-bottom: 30px;
+      }
+
+      .col-c {
+          max-width: 33.33%;
+          overflow: hidden;
+      }
+
+      .btn-style2 a {
+          font-size: 12px;
+          padding: 10px 21px;
+          margin-top: 5px;
+      }
+
+      .header-top li {
+          padding: 0 15px;
+          font-size: 12px;
+          margin-top: 5px;
+      }
+
+      .header-top ul.header-contact {
+          margin-top: 10px;
+      }
+
+      .header-contact li:before {
+          top: -1px;
+      }
+
+      .thumb-img {
+          width: 34%;
+          float: left;
+          padding-right: 20px;
+      }
+
+      .contact-text {
+          margin-bottom: 50px;
+      }
+
+      .testimonial-slide .owl-dots {
+          right: 0%;
+      }
+
+      .contact-area,
+      .contact-area-s2 {
+          padding-bottom: 45px;
+      }
+
+      .expert-active .owl-nav {
+          display: none;
+      }
+
+      .blog-item {
+          margin-bottom: 30px;
+      }
+
+      .b-0 {
+          margin-bottom: 0;
+      }
+
+      .header-style-3 .header-top .container {
+          padding-bottom: 10px;
+      }
+
+      .bd-0 {
+          margin-bottom: 0;
+      }
+
+      .footer-bottom-content ul li {
+          margin-top: -25px;
+      }
+
+      .about-area.about-area2 .about-text {
+          margin-top: 30px;
+          margin-bottom: 0;
+      }
+
+      .counter-area.counter-area2 .counter-grids .grid {
+          width: 23%;
+          padding: 55px 0px 117px;
+      }
+
+      .control {
+          display: inline-block;
+          position: relative;
+          padding-left: 28px;
+          margin-bottom: 18px;
+          padding-top: 3px;
+          cursor: pointer;
+          font-size: 13px;
+          margin-right: 0px;
+      }
+
+      .practice-section {
+          margin-top: 0;
+          margin-bottom: 40px;
+      }
+
+      .slide-item p {
+          padding: 20px 33px 3px;
+          padding-right: 50px;
+          position: relative;
+      }
+
+      .testimonial-text {
+          padding-top: 35px;
+      }
+
+      .field-content h3 {
+          font-size: 35px;
+          line-height: 48px;
+          padding-bottom: 19px;
+      }
+
+      .field-content {
+          top: -63px;
+      }
+
+      .p-p {
+          padding-right: 15px;
+      }
+
+      .organigation-text span {
+          display: block;
+          padding-top: 20px;
+          font-size: 14px;
+      }
+
+      .text-r {
+          padding-left: 15px;
+      }
+
+      .Attorneys-item .Attorneys-img img {
+          width: 270px;
+          height: 270px;
+          border-radius: 100%;
+          border: 15px solid #c0b596;
+      }
+
+      .Attorneys-info .info-outer .info li {
+          font-size: 13px;
+      }
+
+      .Attorneys-info .info-outer .info span {
+          font-size: 15px;
+      }
+
+      .info-outer {
+          padding: 20px 30px 0px 30px;
+      }
+
+      .Attorneys-info .info-outer .social {
+          margin-top: 17px;
+          padding-bottom: 21px;
+      }
+
+      .Attorneys-info .info-outer .info>li+li {
+          margin-top: 10px;
+      }
+
+      .Attorneys-content h3 {
+          text-align: center;
+          font-size: 25px;
+          color: #666;
+      }
+
+      .Attorneys-content-section .studies-item {
+          margin-bottom: 30px;
+      }
+
+      .contact-area.contact-area-2 {
+          padding-top: 30px;
+      }
+
+      .Attorneys-item .Attorneys-img {
+          padding: 37px 30px;
+      }
+
+      .Attorneys-area {
+          padding-bottom: 100px;
+      }
+
+      .practice-details-area.case-stadies-details-area .search-widget input {
+          max-width: 300px;
+          margin-top: 60px;
+      }
+
+      .blog-right-bar {
+          padding-left: 0px;
+      }
+
+      .blog-right-bar-2 {
+          padding-right: 0px;
+      }
+
+      .blog-left-bar-2 {
+          margin-top: 30px;
+      }
+
+      .practice-details-area.case-stadies-details-area .search-widget form button {
+          left: 38%;
+      }
+
+      .blog-right-bar .tag-widget {
+          margin-top: 60px;
+      }
+
+      .practice-section.resent-section h3 {
+          margin-bottom: 10px;
+      }
+
+      .blog-left-bar .author-box {
+          padding: 35px 40px;
+      }
+
+      .blog-left-bar .author-box .author-name {
+          font-size: 22px;
+      }
+
+      .blog-left-bar .comments-area .comments-title {
+          font-size: 22px;
+          font-size: 1.375rem;
+      }
+
+      .blog-left-bar .comment-respond .comment-reply-title {
+          font-size: 22px;
+          font-size: 1.375rem;
+      }
+
+      .blog-left-bar .comment-respond .comment-reply-title {
+          font-size: 22px;
+          font-size: 1.375rem;
+      }
+
+      .blog-left-bar .comment-respond form input,
+      .blog-left-bar .comment-respond form textarea {
+          height: 40px;
+      }
+
+      .blog-left-bar .comment-respond form textarea {
+          height: 150px;
+      }
+
+      .contact-page-area .contact-map {
+          margin-top: 32px;
+      }
+
+      .contact-area.contact-area-2.contact-area-3 {
+          margin-top: 30px;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          line-height: 70px;
+      }
+
+      .slide-item {
+          padding-bottom: 56px;
+      }
+
+      .testimonial-img {
+          margin-top: 0px;
+      }
+
+      .title h2:before {
+          display: none;
+      }
+
+      .section-title h2:before {
+          left: 45%;
+      }
+
+      .counter-area .counter-grids {
+          padding: 45px 0 40px;
+      }
+
+      .pagination-wrapper-2 {
+          margin-top: 0;
+      }
+
+      .practice-details-area.case-stadies-details-area .search-widget-2 input {
+          margin-top: 0px;
+      }
+
+      .blog-right-bar.blog-right-bar-2 {
+          margin-bottom: 60px;
+      }
+
+      .blog-right-bar.blog-right-bar-2 .instagram {
+          margin-top: 0px;
+      }
+
+      .blog-right-bar.blog-right-bar-2 .tag-widget {
+          margin-top: 0px;
+      }
+
+      .blog-page-area.blog-page-fullwidth .blog-item {
+          padding-bottom: 20px;
+      }
+
+      .blog-left-bar .author-box .author-content p {
+          font-size: 14px;
+          margin-bottom: 3px;
+      }
+
+      .header-area-3 {
+          padding: 0px;
+      }
+
+      .header-style-3 .header-area-3 .container {
+          padding: 20px 0 10px;
+      }
+
+      .sticky {
+          padding: 18px 0;
+      }
+
+      .blog-left-bar-3 {
+          margin-top: 0;
+      }
+
+      .footer-logo {
+          max-width: 205px;
+      }
+
+      .search ul li:hover>ul {
+          top: 167%;
+      }
+
+      .service-area.service-area2 .service-icon {
+          padding: 0;
+          margin-top: 5px;
+      }
+
+      .search ul li a {
+          padding: 33px;
+          padding-bottom: 39px;
+      }
+  }
+
+  /* small mobile :576px. */
+
+  @media (min-width: 576px) and (max-width: 767px) {
+      .col-c {
+          max-width: 33.33%;
+          overflow: hidden;
+      }
+
+      .hero {
+          height: 600px;
+      }
+
+      .hero .slide {
+          height: 600px;
+      }
+
+      .hero-style-1 .slide-caption p,
+      .hero-style-2 .slide-caption p {
+          font-size: 18px;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 45px;
+      }
+
+      .hero-style-1 .slide-caption h2 span,
+      .hero-style-2 .slide-caption h2 span {
+          padding: 4px 0;
+      }
+
+      .hero-style-2 {
+          height: 600px;
+      }
+
+      .hero-style-2 .slide {
+          height: 600px;
+      }
+
+      .hero .slick-prev,
+      .hero .slick-next {
+          display: none !important;
+      }
+
+      .logo {
+          margin-top: 0px;
+          max-width: 220px;
+      }
+
+      .sticky {
+          padding: 15px 0;
+      }
+
+      .header-area {
+          padding: 20px 0;
+      }
+
+      .search {
+          text-align: left;
+          margin-top: 10px;
+          margin-left: -44px;
+      }
+
+      .search ul li a i {
+          margin-top: 5px;
+      }
+
+      .header-style-3 .header-top .container {
+          background-color: #1d233c;
+          padding: 10px 0 0 5px;
+      }
+
+      .btn-style-3 a:before {
+          display: none;
+      }
+
+      .practice-area .service-icon {
+          padding: 22px 19px 19px 39px;
+      }
+
+      .service-text h3 {
+          font-size: 28px;
+      }
+
+      .about-text {
+          margin-bottom: 30px;
+      }
+
+      .title h2:before {
+          display: none;
+      }
+
+      .thumb-img {
+          width: 22%;
+          float: none;
+          margin: auto;
+      }
+
+      .testimonial-text {
+          padding-top: 50px;
+          text-align: center;
+      }
+
+      .slide-item p {
+          padding: 0;
+          padding-right: 0;
+      }
+
+      .img-content {
+          margin-top: 13px;
+      }
+
+      .testimonial-img {
+          margin-top: 0;
+          text-align: center;
+      }
+
+      .header-top ul.header-contact {
+          text-align: center;
+          flex-wrap: wrap !important;
+      }
+
+      .header-contact li:before {
+          display: none;
+      }
+
+      .account_login-area {
+          justify-content: center;
+      }
+
+      .btn-style2 {
+          text-align: center;
+          margin-bottom: 15px;
+      }
+
+      .testimonial-area {
+          padding-bottom: 100px;
+      }
+
+      .contact-text {
+          margin-bottom: 50px;
+      }
+
+      .testimonial-slide .owl-dots {
+          position: absolute;
+          bottom: -22%;
+          left: 4%;
+      }
+
+      .slide-item p:before {
+          left: 2px;
+          top: -1px;
+          opacity: .5;
+      }
+
+      .expert-active .owl-nav {
+          display: none;
+      }
+
+      .section-title h2:before {
+          left: 43%;
+      }
+
+      .blog-item {
+          margin-bottom: 30px;
+      }
+
+      .blog-item {
+          margin-bottom: 30px;
+      }
+
+      .b-0 {
+          margin-bottom: 0;
+      }
+
+      .footer-bottom-content ul li {
+          margin-top: -25px;
+      }
+
+      .bd-0 {
+          margin-bottom: 0;
+      }
+
+      .about-area.about-area2 .about-text {
+          margin-top: 30px;
+          margin-bottom: 0;
+      }
+
+      .counter-area.counter-area2 .counter-grids .grid {
+          width: 31%;
+          padding: 42px 0px 107px;
+      }
+
+      .counter-area.counter-area2 .counter-grids .grid p {
+          font-size: 15px;
+
+      }
+
+      .practice-section {
+          margin-bottom: 30px;
+      }
+
+      .p-p {
+          padding-right: 15px;
+      }
+
+      .organaigation-img {
+          float: none;
+          margin-bottom: 30px;
+      }
+
+      .Attorneys-content-section .studies-item {
+          margin-bottom: 30px;
+      }
+
+      .contact-area.contact-area-2 {
+          padding-top: 30px;
+      }
+
+      .col-l {
+          padding-left: 15px;
+      }
+
+      .Attorneys-item .Attorneys-img {
+          padding: 30px 30px;
+      }
+
+      .practice-details-area.case-stadies-details-area .search-widget input {
+          max-width: 300px;
+          margin-top: 60px;
+      }
+
+      .blog-right-bar {
+          padding-left: 0px;
+      }
+
+      .practice-details-area.case-stadies-details-area .search-widget form button {
+          left: 50%;
+      }
+
+      .practice-area.practice-style-1 .service-text {
+          padding: 0;
+          margin-left: 0;
+      }
+
+      .contact-area.contact-area-2.contact-area-3 {
+          margin-top: 30px;
+      }
+
+      .contact-page-area .contact-map {
+          margin-top: 30px;
+      }
+
+      .blog-right-bar-2 {
+          padding-right: 0px;
+      }
+
+      .blog-left-bar-2 {
+          margin-top: 30px;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 38px;
+          line-height: 50px;
+      }
+
+      .Attorneys-item {
+          margin-bottom: 30px;
+      }
+
+      .practice-area.practice-area2 .service-icon {
+          padding: 22px 71px 19px 39px;
+      }
+
+      .practice-area.practice-area2 .service-icon:after {
+          left: 37px;
+      }
+
+      .blog-page-area .blog-item .post-meta li {
+          font-size: 12px;
+      }
+
+      .pagination-wrapper-2 {
+          margin-top: 0;
+      }
+
+      .blog-page-area .blog-item {
+          padding-bottom: 30px;
+      }
+
+      .blog-content-2 h2 {
+          font-size: 27px;
+      }
+
+      .blog-right-bar .tag-widget {
+          margin-top: 40px;
+      }
+
+      .header-style-3 {
+          position: relative;
+      }
+
+      .blog-right-bar.blog-right-bar-2 {
+          margin-bottom: 60px;
+      }
+
+      .header-style-3 .header-top {
+          background-color: #1d233c;
+      }
+
+      .header-style-3 .header-area-3 {
+          background-color: #272c3f;
+      }
+
+      .hero.hero-slider-wrapper.hero-style-2 .slide-caption-2 {
+          padding-top: 0;
+      }
+
+      .btn-style a {
+          margin-bottom: -6px;
+          margin-top: 12px;
+      }
+
+      .header-top li {
+          padding: 4px;
+      }
+
+      .header-contact li:first-child:before {
+          display: none;
+      }
+
+      .blog-left-bar-3 {
+          margin-top: 0;
+      }
+
+      .footer-logo {
+          max-width: 205px;
+      }
+
+      .search ul li:hover>ul {
+          top: 165%;
+      }
+
+      .service-area.service-area3 .service-icon {
+          padding: 10px 15px 10px 35px;
+      }
+
+      .service-area.service-area2 .service-icon {
+          padding: 0;
+          margin-top: 5px;
+      }
+
+      .search ul li a {
+          padding: 33px;
+          padding-bottom: 39px;
+      }
+  }
+
+  /* extra small mobile 320px. */
+
+  @media (max-width: 575px) {
+      .hero {
+          height: 550px;
+      }
+
+      .hero .slide {
+          height: 550px;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 35px;
+      }
+
+      .hero-style-2 {
+          height: 450px;
+      }
+
+      .hero-style-2 .slide {
+          height: 450px;
+
+      }
+
+      .hero .slick-prev,
+      .hero .slick-next {
+          display: none !important;
+      }
+
+      .logo {
+          margin-top: 0px;
+      }
+
+      .header-area {
+          padding: 20px 0;
+      }
+
+      .slide-caption {
+          z-index: 19;
+          padding-top: 0px;
+      }
+
+      .search {
+          text-align: left;
+          margin-top: 5px;
+          margin-left: -23px;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          line-height: 37px;
+          font-size: 25px;
+          margin: 20px 0;
+      }
+
+      .hero-style-1 .slide-caption p,
+      .hero-style-2 .slide-caption p {
+          font-size: 18px;
+      }
+
+      .btn-style-3 a:before {
+          display: none;
+      }
+
+      .header-top li {
+          display: inline-block;
+          padding: 15px 8px;
+          color: #fff;
+          padding-left: 0;
+      }
+
+      .header-top ul.header-contact {
+          text-align: center;
+      }
+
+      .account_login-area {
+          justify-content: center;
+      }
+
+      .btn-style2 {
+          text-align: center;
+      }
+
+      .header-contact li:first-child:before {
+          display: none;
+      }
+
+      .service-text h3 {
+          color: #fff;
+          font-size: 24px;
+      }
+
+      .practice-area .service-text:before {
+          display: none;
+      }
+
+      .section-title h2 {
+          font-size: 29px;
+      }
+
+      .section-title h2:before {
+          left: 40%;
+      }
+
+      .about-text {
+          margin-bottom: 30px;
+      }
+
+      .col-c {
+          max-width: 100%;
+          overflow: hidden;
+      }
+
+      .title h2 {
+          font-size: 25px;
+      }
+
+      .title h2:before {
+          display: none;
+      }
+
+      .thumb-img {
+          width: 30%;
+          float: none;
+          margin: auto;
+      }
+
+      .testimonial-text {
+          padding-top: 50px;
+          text-align: center;
+      }
+
+      .slide-item p {
+          padding: 0 21px;
+          padding-right: 0;
+      }
+
+      .slide-item p:before {
+          left: 2px;
+          top: -1px;
+          opacity: .5;
+      }
+
+      .testimonial-img {
+          margin-top: 0;
+          max-width: 70%;
+          margin: auto;
+      }
+
+      .img-content {
+          margin-top: 13px;
+      }
+
+      .testimonial-area {
+          padding-bottom: 100px;
+      }
+
+      .contact-text {
+          margin-bottom: 50px;
+      }
+
+      .testimonial-slide .owl-dots {
+          position: absolute;
+          bottom: -22%;
+          left: 0;
+      }
+
+      .contact-area form input,
+      .contact-area-s2 form input,
+      .contact-area form textarea,
+          {
+          height: 45px;
+      }
+
+      .contact-area form div,
+      .contact-area-s2 form div {
+          padding: 0 0 15px 15px;
+      }
+
+      .contact-area form,
+      .contact-area-s2 form {
+          margin: 0 0 0 -15px;
+      }
+
+      .contact-area,
+      .contact-area-s2 {
+          padding-bottom: 35px;
+      }
+
+      .expert-active .owl-nav {
+          display: none;
+      }
+
+      .blog-item {
+          margin-bottom: 30px;
+      }
+
+      .b-0 {
+          margin-bottom: 0;
+      }
+
+      .footer-bottom-content ul {
+          justify-content: center;
+          margin-top: 10px;
+      }
+
+      .social-newsletter-section .newsletter button {
+          width: 80px;
+          font-size: 13px;
+      }
+
+      .social-newsletter-section .newsletter input {
+          font-size: 14px;
+          padding: 6px 80px 6px 12px;
+      }
+
+      .practice-area .service-icon {
+          padding: 5px 3px 0px 21px;
+      }
+
+      .service-area.service-area2 .service-item {
+          margin-left: 15px;
+      }
+
+      .service-area.service-area2 .service-text h3 {
+          color: #333;
+          font-size: 22px;
+      }
+
+      .about-area.about-area2 .about-text {
+          margin-top: 30px;
+          margin-bottom: 0;
+      }
+
+      .counter-area .counter-grids {
+          margin-left: 6px;
+      }
+
+      .counter-area .counter-grids .grid p {
+          font-size: 14px;
+      }
+
+      .counter-area .counter-grids {
+          padding: 66px 0 60px;
+      }
+
+      .counter-area.counter-area2 .counter-grids .grid {
+          width: 95%;
+      }
+
+      .breadcumb-wrap h2 {
+          font-size: 40px;
+      }
+
+      .practice-section {
+          margin-bottom: 30px;
+      }
+
+      .p-p {
+          padding-right: 15px;
+      }
+
+      .footer-bottom-content {
+          text-align: center;
+          padding-bottom: 15px;
+      }
+
+      .footer-bottom-content span {
+          font-size: 12px;
+          padding-bottom: 15px;
+      }
+
+      .col-l {
+          padding-left: 15px;
+      }
+
+      .Attorneys-item {
+          margin-bottom: 30px;
+      }
+
+      .Attorneys-item .Attorneys-img img {
+          width: 200px;
+          height: 200px;
+      }
+
+      .Attorneys-content h3 {
+          font-size: 22px;
+      }
+
+      .Attorneys-info .info-outer .info li {
+          font-size: 13px;
+      }
+
+      .Attorneys-info .info-outer .info span {
+          font-size: 15px;
+      }
+
+      .info-outer {
+          padding: 20px 27px 0px 15px;
+      }
+
+      .Attorneys-info .info-outer .social {
+          margin-top: 17px;
+          padding-bottom: 21px;
+      }
+
+      .Attorneys-info .info-outer .info>li+li {
+          margin-top: 10px;
+      }
+
+      .Attorneys-item .Attorneys-img {
+          padding: 30px 30px;
+      }
+
+      .blog-left-bar .tag-share .tag a {
+          padding: 9px 17px 10px;
+      }
+
+      .blog-left-bar .tag-share {
+          border-right: 1px solid #ebebf1;
+      }
+
+      .blog-left-bar .tag-share .tag,
+      .blog-left-bar .tag-share .share {
+          display: block;
+      }
+
+      .blog-left-bar .tag-share .tag {
+          float: none;
+      }
+
+      .blog-left-bar .tag-share .share {
+          float: none;
+          border-top: 1px solid #ebebf1;
+          margin-top: 1px;
+      }
+
+      .blog-left-bar .author-box {
+          padding: 25px;
+      }
+
+      .blog-left-bar .author-box .author-avatar {
+          float: none;
+      }
+
+      .blog-left-bar .author-box .author-content {
+          padding: 0;
+          margin: 15px 0 0 0;
+      }
+
+      .blog-left-bar .more-posts .post-control-link {
+          font-size: 14px;
+      }
+
+      .blog-right-bar {
+          padding-left: 0px;
+          margin-top: 30px;
+      }
+
+      .blog-left-bar .comments-area .comment.comment-2 {
+          padding-left: 0;
+      }
+
+      .blog-left-bar .comments-area .comment.comment-5 {
+          padding-left: 0;
+      }
+
+      .blog-left-bar .more-posts>div {
+          width: 50%;
+          float: left;
+      }
+
+      .blog-left-bar .comments-area .comment-theme {
+          position: static;
+      }
+
+      .blog-left-bar .comments-area .comment-main-area {
+          padding-left: 0;
+          margin-top: 25px;
+      }
+
+      .blog-left-bar .comment-respond .form-inputs>input:nth-child(2) {
+          width: 100%;
+          float: none;
+      }
+
+      .blog-left-bar .comment-respond .form-inputs>input:nth-child(3) {
+          width: 100%;
+          float: none;
+      }
+
+      .contact-page-area .contact-map {
+          height: 350px;
+          margin-top: 50px;
+      }
+
+      .contact-area.contact-area-2.contact-area-3 {
+          margin-top: 30px;
+      }
+
+      .breadcumb-area {
+          min-height: 450px;
+      }
+
+      .blog-content-3 {
+          padding: 40px 14px 60px;
+      }
+
+      .blog-content-3:after {
+          left: 80%;
+          top: 57px;
+          font-size: 42px;
+
+      }
+
+      .blog-right-bar-2 {
+          padding-right: 0px;
+      }
+
+      .blog-left-bar-2 {
+          margin-top: 30px;
+      }
+
+      .blog-page-area .blog-item .post-meta li {
+          display: inline-block;
+          padding: 5px;
+      }
+
+      .blog-page-area .blog-item .post-meta>li+li+li:before {
+          display: none;
+      }
+
+      .blog-page-area .blog-item .post-meta li {
+          padding-left: 0;
+          font-size: 12px;
+      }
+
+      .Attorneys-content-section .studies-item {
+          margin-bottom: 30px;
+      }
+
+      .btn-style a {
+          margin-bottom: 5px;
+          margin-top: 15px;
+          font-size: 13px;
+          padding: 4px 18px;
+      }
+
+      .slicknav_btn {
+          margin-top: -40px;
+      }
+
+      .search ul li a i {
+          margin-top: 8px;
+      }
+
+      .practice-area {
+          padding: 70px 0 40px;
+      }
+
+      .section-title h2 {
+          font-size: 26px;
+      }
+
+      .about-area.about-area2 .about-title .img-holder:before {
+          left: -6px;
+          top: -6px;
+      }
+
+      .about-area.about-area2 .btns {
+          margin-bottom: 6px;
+      }
+
+      .practice-area .service-text p {
+          font-size: 14px;
+          line-height: 20px;
+      }
+
+      .practice-details-area.case-stadies-details-area .practice-section {
+          margin-bottom: 0;
+      }
+
+      .blog-content-3 h2 {
+          font-size: 25px;
+      }
+
+      .blog-content-2 h2 {
+          font-size: 22px;
+      }
+
+      .blog-right-bar .tag-widget {
+          margin-top: 60px;
+      }
+
+      .blog-page-area .blog-item {
+          padding-bottom: 15px;
+      }
+
+      .pagination-wrapper-2 {
+          margin-top: 0;
+      }
+
+      .blog-right-bar.blog-right-bar-2 {
+          margin-bottom: 60px;
+          margin-top: 0;
+      }
+
+      .section-padding {
+          padding: 80px 0;
+      }
+
+      .blog-item .blog-img .video-holder a {
+          width: 70px;
+          height: 70px;
+          line-height: 70px;
+          font-size: 30px;
+      }
+
+      .blog-item .blog-img .video-holder .fa {
+          padding-left: 4px;
+      }
+
+      .importent-text h2 {
+          font-size: 21px;
+      }
+
+      .importent-img {
+          float: none;
+          padding-right: 0;
+          margin-bottom: 25px;
+      }
+
+      .header-style-3 {
+          position: relative;
+      }
+
+      .header-style-3 .header-top {
+          background-color: #1d233c;
+      }
+
+      .header-style-3 .header-area-3 {
+          background-color: #272c3f;
+      }
+
+      .hero.hero-slider-wrapper.hero-style-2 .slide-caption-2 {
+          padding-top: 0;
+      }
+
+      .hero-style-1 .slide-caption h2,
+      .hero-style-2 .slide-caption h2 {
+          font-size: 25px;
+      }
+
+      .header-top li {
+          padding: 4px;
+      }
+
+      .sticky {
+          padding: 15px 0;
+      }
+
+      .blog-left-bar-3 {
+          margin-top: 0;
+      }
+
+      .logo {
+          margin-top: 0px;
+          max-width: 163px;
+      }
+
+      .contact-area.section-padding {
+          padding-bottom: 55px;
+      }
+
+      .footer-logo {
+          max-width: 220px;
+      }
+
+      .counter-area .counter-grids .grid h2 {
+          font-size: 30px;
+      }
+
+      .counter-area .counter-grids .grid {
+          padding: 50px 0px 100px;
+      }
+
+      .slicknav_menu nav {
+          margin-top: 16px;
+      }
+
+      .search ul li:hover>ul {
+          visibility: visible;
+          opacity: 1;
+          top: 160%;
+      }
+
+      .icon-c {
+          background: #c0b596;
+          height: 88px;
+          max-width: 65px;
+          text-align: center;
+          margin-left: 15px;
+      }
+
+      .service-area.service-area2 .service-item {
+          margin-left: 0px;
+      }
+
+      .service-area.service-area2 .service-icon {
+          padding: 0px;
+          margin-left: -8px;
+          margin-top: 7px;
+      }
+
+      [class^="flaticon-"]:before,
+      [class*=" flaticon-"]:before,
+      [class^="flaticon-"]:after,
+      [class*=" flaticon-"]:after {
+          font-family: Flaticon;
+          font-size: 50px;
+          font-style: normal;
+      }
+
+      .icon-b {
+          height: 65px;
+          max-width: 70px;
+          text-align: center;
+          margin-left: 0px;
+      }
+
+      .service-area.service-area3 .service-icon {
+          padding: 0px;
+          margin-left: 9px;
+          margin-top: 15px;
+      }
+
+      .service-area.service-area3 .service-text {
+          text-align: center;
+      }
+
+      .pricing-item {
+          padding: 20px 20px 35px;
+      }
+
+      .pricing-text h2 {
+          font-size: 44px;
+          margin-bottom: 15px;
+          line-height: 35px;
+          margin-right: 10px;
+      }
+
+      .pricing-text p {
+          margin-bottom: 10px;
+      }
+
+      .practice-area.practice-style-1 {
+          padding-bottom: 10px;
+      }
+
+      .practice-area.practice-area2 {
+          padding-bottom: 70px;
+      }
+
+      .prising-area {
+          padding: 70px 0 40px;
+      }
+
+      .search ul li a {
+          padding: 31px;
+          padding-bottom: 30px;
+      }
+
+      .header-top ul.header-contact {
+          text-align: center;
+          flex-wrap: wrap !important;
+      }
+
+      .header-contact li:before {
+          display: none;
+      }
+
+      .account_login-area li{
+          font-size: 14px;
+      }
+  }
+
+  /* Large Mobile :480px. */
+  @media only screen and (min-width: 480px) and (max-width: 575px) {
+      .expert-active .owl-nav {
+          display: none;
+      }
+
+      .about-area.about-area2 .about-text {
+          margin-top: 30px;
+      }
+
+  }
+
+  @media (max-width: 450px) {
+
+      .hero-style-1 .slide-caption h2 span,
+      .hero-style-2 .slide-caption h2 span {
+          padding: 4px 0;
+      }
+
+  }
+
+  @media (max-width:575px) and (min-width:510px) {
+      .practice-area .service-item {
+          margin-left: 30px;
+          margin-right: 30px;
+      }
+
+  }
