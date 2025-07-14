@@ -48,5 +48,3 @@ This project is perfect for:
 
 ---
 
-## 📁 Folder Structure (Example)
-
