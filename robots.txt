@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Block backend or sensitive folders (only if they exist)
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /server/
+Disallow: /cgi-bin/
+
+# Block search pages (optional)
+Disallow: /search
+
+# Block archives and unnecessary files
+Disallow: /*.zip$
+Disallow: /*.rar$
+Disallow: /*.tar$
+Disallow: /*.gz$
+Disallow: /*.pdf$  
+
+# Ensure CSS/JS/Images are crawlable
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Sitemap location
+Sitemap: https://www.barristershub.co.uk/sitemap.xml

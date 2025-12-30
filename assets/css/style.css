@@ -762,7 +762,7 @@ mobile menu
 =======================================*/
 .service-area {
     padding: 50px 0 20px;
-    background: url(../images/services/1.jpg) no-repeat center center / cover;
+    background: url(../images/services/service-background.webp) no-repeat center center / cover;
     position: relative;
     z-index: 1;
 }
@@ -907,7 +907,7 @@ mobile menu
 =========================================*/
 .practice-area {
     padding: 95px 0 65px;
-    background: url(../images/practice/1.png) no-repeat center center / cover;
+    background: url(../images/practice/pratise-area.webp) no-repeat center center / cover;
     position: relative;
     z-index: 1;
 }
@@ -1276,7 +1276,7 @@ mobile menu
 }
 
 .contact-area {
-    background: url("../images/contact/1.png") center center/cover no-repeat local;
+    background: url("../images/contact/contact-bg.webp") center center/cover no-repeat local;
     position: relative;
     background-attachment: fixed;
     padding-bottom: 55px;
@@ -2033,7 +2033,7 @@ mobile menu
 =======================================*/
 
 .breadcumb-area {
-    background: url(../images/breadcumb/1.jpg) no-repeat center top / cover;
+    background: url(../images/breadcumb/breadcumb-img.webp) no-repeat center top / cover;
     min-height: 550px;
     position: relative;
     display: flex;
